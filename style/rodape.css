@@ -1,0 +1,13 @@
+
+hr {
+    margin: 0;
+}
+
+.rodape {
+    padding: 2em;
+    background-color: var(--branco);
+}
+
+.rodape__titulo {
+    color: var(--preto);
+}
